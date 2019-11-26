@@ -1,6 +1,6 @@
 Site baseado no Pinterest
 
-Feito com HTML5, CSS3, Boostrap, JavaScript e PHP.
+Feito com HTML5, CSS3, Bootstrap, JavaScript e PHP.
 
 Utilizado MySQL Workbench 8.0.18 para o Banco de Dados.
 
