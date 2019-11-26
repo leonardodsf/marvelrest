@@ -1,0 +1,66 @@
+body,
+ul,
+li,
+p {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 1.2rem;
+  font-family: Arial;
+}
+
+body {
+  margin-bottom: 100px;
+
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.header {
+  background: #000000;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu li {
+  margin-left: 35px;
+}
+
+.menu li a {
+  display: block;
+  padding: 10px;
+}
+.marvel {
+  display: flex;
+  width:130px;
+  height:50px;
+}
+
+body {
+	margin: 0px;
+}
+h1 {
+  display: grid;
+  justify-content: center;
+}
+.container {
+  display: grid;
+  justify-content: center;
+}
+.user {
+  display:flex;
+  background:rgb(255, 255, 255);
+  height: 49px;
+  font-size: 15pt;
+  border-radius: 45%;
+}

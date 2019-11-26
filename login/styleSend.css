@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100vh;
+}
+
+body {
+  background-color: #000000;
+  font-family: Roboto, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
