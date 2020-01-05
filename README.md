@@ -1,8 +1,8 @@
-Site baseado no Pinterest
+# Site baseado no Pinterest
 
-Feito com HTML5, CSS3, Bootstrap, JavaScript e PHP.
+**Feito com HTML5, CSS3, Bootstrap, JavaScript e PHP.**
 
-Utilizado MySQL Workbench 8.0.18 para o Banco de Dados.
+__Utilizado MySQL Workbench 8.0.18 para o Banco de Dados.__
 
 Site com Login de Usuario e Cadastro de Usuario (com validação de dados), Recuperação de Senha por e-mail que será enviado uma senha aleatória e validando no banco de dados(atualizando ela) para assim efetuar o login. Não consegue abrir nenhuma página sem estar logado, e também nem recuperar a senha se não tiver um e-mail válido(e-mail de um usuário cadastrado).
 
@@ -18,4 +18,4 @@ Na página inicial onde se tem acesso as imagens cadastradas no banco de dados. 
 
 - Usuario = Mostra o nome do login que foi logado.
 
-Nas imagens cadastradas, estão divididas em várias divs automaticamente por PHP e CSS, com tamanhos diferentes das divs de acordo com o tamanho da imagem. Formando 4 colunas no total e ficando em 2 colunas em uma tela menor (tablet, celular ou notebook). Mostrando o usuario que postou a imagem juntamente com o comentário postado.
+> Nas imagens cadastradas, estão divididas em várias divs automaticamente por PHP e CSS, com tamanhos diferentes das divs de acordo com o tamanho da imagem. Formando 4 colunas no total e ficando em 2 colunas em uma tela menor (tablet, celular ou notebook). Mostrando o usuario que postou a imagem juntamente com o comentário postado.
