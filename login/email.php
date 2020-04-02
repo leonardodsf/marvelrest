@@ -62,7 +62,7 @@
       $mail->Port = 587; // Porta do SMTP
       $mail->SMTPAuth = true; // Caso o servidor SMTP precise de autenticação
       $mail->Username = "tuxeww6@gmail.com"; // SMTP username - email do Gmail
-      $mail->Password = "cvxhbewbncgajciz"; // SMTP password - contas com verificação de 2 etapas: https://support.google.com/accounts/answer/185833?hl=pt-BR
+      $mail->Password = "123456"; // SMTP password - contas com verificação de 2 etapas: https://support.google.com/accounts/answer/185833?hl=pt-BR
       $mail->From = "tuxeww6@gmail.com"; // E-mail de quem envia o email
       $mail->FromName = "Marvelrest Company" ; // Nome de quem envia o email
       $mail->AddAddress($endereco, $nome); // Email e nome de quem receberá
